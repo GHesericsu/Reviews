@@ -11,7 +11,6 @@ import ReviewList from './ReviewList.jsx';
 import Modal from './Modal.jsx';
 import { sampleData } from '../../server/sampleData.js';
 
-
 const Wrapper = styled.div`
   padding: 48px 0px;
   max-width: 1120px;

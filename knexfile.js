@@ -7,9 +7,9 @@ module.exports = {
   development: {
     client: 'pg',
     connection: {
-      host: '172.17.0.2',
+      host: '127.0.0.1',
       password: 'rootpass@',
-      user: 'ericsu',
+      user: 'eric',
       database: 'airbnb',
       port: 5432,
     },
